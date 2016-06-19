@@ -14,6 +14,8 @@ tyanmahou (@tyanmahou)
 
 描いたイラストはtwitterに投稿することができます。  
 
+##ダウンロード
+[ダウンロード](http://ux.getuploader.com/tyanmahou_game/download/4/10secDraw.zip)
 ##スクリーンショット
 ![スクショ1](Screenshot/sample.png)
 ![スクショ2](Screenshot/sample2.png)
