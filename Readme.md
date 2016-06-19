@@ -16,3 +16,5 @@ tyanmahou (@tyanmahou)
 
 ##スクリーンショット
 ![スクショ1](Screenshot/sample.png)
+![スクショ2](Screenshot/sample2.png)
+![スクショ3](Screenshot/sample3.png)
